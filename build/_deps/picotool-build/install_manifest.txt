@@ -1,0 +1,5 @@
+/home/student/eced3901-serialsensor-base/build/_deps/picotool/picotool
+/home/student/eced3901-serialsensor-base/build/_deps/picotool/picotoolTargets.cmake
+/home/student/eced3901-serialsensor-base/build/_deps/picotool/picotoolTargets-release.cmake
+/home/student/eced3901-serialsensor-base/build/_deps/picotool/picotoolConfig.cmake
+/home/student/eced3901-serialsensor-base/build/_deps/picotool/picotoolConfigVersion.cmake

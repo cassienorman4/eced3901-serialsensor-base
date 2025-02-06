@@ -1,0 +1,2 @@
+/home/student/eced3901-serialsensor-base/CMakeFiles/edit_cache.dir
+/home/student/eced3901-serialsensor-base/CMakeFiles/rebuild_cache.dir
